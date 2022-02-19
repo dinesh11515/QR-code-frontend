@@ -1,0 +1,33 @@
+body{
+    font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+}
+.qr-code{
+    border-radius: 10px;
+    margin-left: 43%;
+    margin-top: 10%;
+    height: 420px;
+    width: 250px;
+    background-color: white;
+    padding: 0;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    padding: 15px;
+}
+.bold{
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+}
+.unbold{
+    font-weight: 400;
+}
+
+.image{
+    
+    border-radius: 8px;
+    height: 250px;
+    width: 250px;
+}
