@@ -6,7 +6,7 @@ body{
     border-radius: 10px;
     margin-left: 43%;
     margin-top: 10%;
-    height: 420px;
+    height: 370px;
     width: 200px;
     background-color: white;
     padding: 0;
@@ -28,6 +28,6 @@ body{
 .image{
     
     border-radius: 8px;
-    height: 250px;
+    height: 200px;
     width: 200px;
 }
